@@ -1,2 +1,3 @@
-# noesis-cli
-Noēsis CLI — Launch and evolve autonomous swarm nodes
+# Noēsis CLI
+
+Launch and manage autonomous Noēsis nodes.
